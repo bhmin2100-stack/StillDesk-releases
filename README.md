@@ -15,3 +15,6 @@ The app automatically checks this repository for new releases and downloads veri
 If integration fails, see `%LOCALAPPDATA%\StillDesk\setup-error.txt` and retry **Connect PowerToys and Everything** from the Start menu.
 
 This repository contains release assets; the dashboard source is maintained separately. This is not an official Microsoft or voidtools product.
+
+## Extension source
+The modified EPL-2.0 extension and shared bridge source are included in the installer under ThirdParty/EverythingInline-source.zip and as a release asset. See third-party-notices.txt in the release. Dashboard application source is not included.
