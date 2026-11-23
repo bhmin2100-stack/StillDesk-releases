@@ -18,3 +18,6 @@ This repository contains release assets; the dashboard source is maintained sepa
 
 ## Extension source
 The modified EPL-2.0 extension and shared bridge source are included in the installer under ThirdParty/EverythingInline-source.zip and as a release asset. See third-party-notices.txt in the release. Dashboard application source is not included.
+
+## Company tile starter kit (1.1)
+Download [the company starter ZIP](https://github.com/bhmin2100-stack/StillDesk-releases/releases/download/v1.1.0/StillDesk-CompanyWorkspace-Starter-1.1.zip), which includes the installer, mock providers, source templates, and AI_HANDOFF.md. It contains eight tile frames and an optional calendar feed showing DAY / SW / GY worker names. Real company connectors are unimplemented; no real company credentials or data are included. The timeline remains a separate dashboard feature.
